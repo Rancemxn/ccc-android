@@ -2,3 +2,6 @@ opencv-python
 onnxruntime
 pandas
 gradio
+pure-python-adb-reborn
+psutil
+rich
